@@ -1,5 +1,3 @@
-### Welcome! 👋
-
 <!--
 - 👋 Hi there!, I’m Asier Ortega Legarreta @asiort
 - 👀 I’m interested in Bioinformatics, Genomics, Statistics and Machine Learning, and how to combine them to solve biological problems!

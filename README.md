@@ -4,4 +4,5 @@
 - 💻 I am currently working on small bioinformatics tools to facilitate data analysis and processing. So far I have developed two scraping tools using Selenium:
     - A tool that allows multiple BLAST searches to be performed in parallel against the NCBI database, from a multiFASTA.
     - A tool that allows to scrape all the results generated with MiGA Online, to infer the taxonomy of our genomes. 
+    - I am also developing small shiny apps in order to share and become more understable complex data, using interactive tools. 
 - 📫 You can reach me at asierortega20@gmail.com

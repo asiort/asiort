@@ -7,7 +7,7 @@
 💻 I am handy in building reproducible tools to facilitate data analysis. My current development focus includes:
 
     - Building scalable, automated Nextflow pipelines for biomarker discovery and cross-species integration.
-    - Creating custom analytical workflows and R packages (Bioconductor) for biological data integration.
-    - Developing interactive R Shiny web tools to make complex data more understandable for researchers and clinicians.
+    - Developing interactive Shiny web tools to make complex data more understandable for researchers and clinicians.
+    - Creating custom analytical workflows and R packages (Bioconductor).
 
 📫 You can reach me at asierortega20@gmail.com.

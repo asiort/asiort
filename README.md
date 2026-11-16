@@ -1,8 +1,13 @@
-- 👋 Hey there!, I’m Asier Ortega Legarreta @asiort
-- 👀 I’m interested in Bioinformatics, Genomics, Statistics and Machine Learning, and how to combine them to solve biological problems!
-- 💼 I’m currently working in Navarrabiomed, biomedical research centre in the Translational Bioinformatic group as Bioinformatician.
-- 💻 I am currently working on small bioinformatics tools to facilitate data analysis and processing. So far I have developed two scraping tools using Selenium:
-    - A tool that allows multiple BLAST searches to be performed in parallel against the NCBI database, from a multiFASTA.
-    - A tool that allows to scrape all the results generated with MiGA Online, to infer the taxonomy of our genomes. 
-    - I am currently developing Shiny apps and R packages (bioconductor) to become more understable complex data, using interactive tools. 
-- 📫 You can reach me at asierortega20@gmail.com
+
+👋 Hey there!, I’m Asier Ortega Legarreta (@asiort).
+👀 I’m fascinated by biology, data, and the joy of making complex systems simple. My main interests lie in single-cell omics, multiomics data integration, and understanding complex biological networks.
+
+💼 I’m currently working as a Bioinformatician III at Ardigen, where I focus on large-scale scRNA-seq reference atlases and multiomic workflows involving transcriptomics and proteomics.
+
+💻 I am handy in building reproducible tools to facilitate data analysis. My current development focus includes:
+
+    - Building scalable, automated Nextflow pipelines for biomarker discovery and cross-species integration.
+    - Creating custom analytical workflows and R packages (Bioconductor) for biological data integration.
+    - Developing interactive R Shiny web tools to make complex data more understandable for researchers and clinicians.
+
+📫 You can reach me at asierortega20@gmail.com.
